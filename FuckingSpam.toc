@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: FuckingSpam
+## SavedVariables: FuckingSpamArray
+## Author: moh at yutsuku.net
+## Version: 1.0.0
+## DefaultState: Enabled
+core.lua
